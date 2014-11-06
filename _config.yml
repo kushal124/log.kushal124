@@ -2,7 +2,7 @@
 title:       Weblog
 email:       bayesian@machinelearner.me
 author:      Kushal Khandelwal
-description: "Daily Cribbing from the plate of a Chemist turned Machine Learner"
+description: "Daily Cribbing of a Chemist turned Machine Learner"
 baseurl:     ""
 url:         "http://weblog.kushalkhandelwal.com"
 
@@ -19,7 +19,7 @@ show_social_icons: true
 github_username: kushal124
 twitter_username: kushal124
 google_plus_id: +KushalKhandelwal124
-linkedin_username: kushal124
+linkedin_username: 
 bitcoin_url:
 paypal_url:
 flattr_button:
