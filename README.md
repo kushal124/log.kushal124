@@ -2,5 +2,5 @@
 
 ###  Pixyll Plug
 
-The site desing by Pixyll[<http://pixyll.com> ] :)
+The site desing by Pixyll[http://pixyll.com]
 
