@@ -12,9 +12,9 @@ So after days of planning, the most basic things which haunts me is time and pro
 
 I hope that I find a solution to this problem as soon as possible. I wil try to pen down my experiences daily to analyze the faults.
 
-TODO:
-* Look for a project management solution
-* Create an active task list.
-* Log all the experiences and daily activities.
+> TODO: 
+> * Look for a project management solution 
+> * Create an active task list. 
+> * Log all the experiences and daily activities. 
 
 
