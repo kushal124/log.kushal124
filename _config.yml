@@ -31,5 +31,3 @@ paginate:     5
 sass:
 compressed: true
 
-kramdown:
-	input: GFM
