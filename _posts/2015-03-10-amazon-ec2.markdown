@@ -1,0 +1,10 @@
+---
+author: Kushal
+layout: post
+type: post
+date: 2015-03-10 22:10
+title: "Amazon EC2"
+category: development
+tags: []
+---
+Launched my Amazon EC2 instance. I would primarily use this instance and DigialOcean instances for my development work. Would try to set my Machine Learning environment on the cloud.
