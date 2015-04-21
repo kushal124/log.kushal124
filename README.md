@@ -1,6 +1,6 @@
 # WebLog of Machine Learner
+A simple online web log to record daily activities and important resources.
 
-###  Pixyll Plug
+This page contains all the self notes.
 
-The site desing by Pixyll[http://pixyll.com]
 
